@@ -1,4 +1,4 @@
-#PH525.2x: Introduction to Linear Models and Matrix Algebra for the Life Sciences HarvardX solutions
+# PH525.2x: Introduction to Linear Models and Matrix Algebra for the Life Sciences HarvardX solutions
 PH525.2x: Introduction to Linear Models and Matrix Algebra for the Life Sci    ences HarvardX solutions
 
 
